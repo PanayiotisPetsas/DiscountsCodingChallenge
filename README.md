@@ -35,4 +35,4 @@ This class has the main method to the UnidaysDiscountChallenge class.
 
 The class' name is `example`. Feel free to change the four statements of `example.AddToBasket("B");` and test anything you would like.
 
-To enable the pricing rules, the `pricingRules` must be set to true and to disable them, it must be set to false as the constructor's parameter. 
+To enable the pricing rules, the `pricingRules` boolean value must be set to true and to disable them, it must be set to false as the constructor's parameter. 
