@@ -28,3 +28,11 @@ This method takes a parameter (a String value) which is the `Item` name. Based o
 ### CalculateTotalPrice method
 
 The CalculateTotalPrice method firstly checks if the `totalPrice` value is greater or equal to 50, and if it is, the `deliveryCharge` integer value is set to 0, since there are no delivery costs for on orders over £50.00. `totalPrice` is then returned. Otherwise, the `deliveryCharge` value remains at 7, and is added into the `totalPrice`. `totalPrice` is then returned.
+
+## TheMain.java
+
+This class has the main method to the UnidaysDiscountChallenge class. 
+
+The class' name is `example`. Feel free to change the four statements of `example.AddToBasket("B");` and test anything you would like.
+
+To enable the pricing rules, the `pricingRules` must be set to true and to disable them, it must be set to false as the constructor's parameter. 
