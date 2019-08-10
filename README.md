@@ -37,5 +37,14 @@ The class' name is `example`. Feel free to change the four statements of `exampl
 
 To enable the pricing rules, the `pricingRules` boolean value must be set to true and to disable them, it must be set to false as the constructor's parameter. 
 
+### Notes
+
 Note: The `package unidaysChallenge;` at the very top might need to be removed for the code to work in both classes.
+
+In this case, I have used integers since looking at the example prices, integers are the most appropriate to use in this coding challenge. There is no possibility of floats/doubles. In a more 'real' application though, the use of floats and doubles would have been a better choice, since there would be a need of dealing with percentages, halves etc.
+
+You are more than welcome to look at my other projects in my GitHub profile. 
+
+Thank you for your time and consideration. 
+
 
