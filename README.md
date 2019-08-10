@@ -37,5 +37,5 @@ The class' name is `example`. Feel free to change the four statements of `exampl
 
 To enable the pricing rules, the `pricingRules` boolean value must be set to true and to disable them, it must be set to false as the constructor's parameter. 
 
-Note: The `package unidaysChallenge;` at the very top might need to be removed for the code to work.
+Note: The `package unidaysChallenge;` at the very top might need to be removed for the code to work in both classes.
 
