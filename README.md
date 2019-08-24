@@ -6,7 +6,7 @@ The code was written in the language of Java with the IDE being Eclipse (Version
 
 It consists of two java files, one which is the UnidaysDiscountChallenge.java and the other one, which consists of the main method, is the TheMain.java.
 
-## UnidaysDscountChallenge.java
+## UnidaysDiscountChallenge.java
 
 This java file consists of the class constructor along with the two methods `AddToBasket` and `CalculateTotalPrice`. 
 
@@ -44,6 +44,8 @@ Note: The `package unidaysChallenge;` at the very top might need to be removed f
 In this case, I have used integers since looking at the example prices, integers are the most appropriate to use in this coding challenge. There is no possibility of floats/doubles. In a more 'real' application though, the use of floats and doubles would have been a better choice, since there would be a need of dealing with percentages, halves etc.
 
 You are more than welcome to look at my other projects in my GitHub profile. 
+
+My LinkedIn: https://www.linkedin.com/in/panayiotis-petsas/
 
 Thank you for your time and consideration. 
 
